@@ -1,14 +1,33 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DaviLinharess&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLinharess&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img width="1584" height="396" alt="Davi Linhares (2)" src="https://github.com/user-attachments/assets/1de6dfba-9295-4231-a034-462984706753" />
+</div>
+<h3 align="center">
+  Full Stack • Student • Web Developer
+</h3>
+
+  ![](https://github-readme-stats.vercel.app/api?username=DaviLinharess&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLinharess&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DaviLinharess&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-## 🌐 Socials:
+<div> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />&nbsp; Olá! Meu nome é Davi Linhares, sou Desenvolvedor Web e estudante do Instituto Federal do Rio Grande do Norte.<br />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />&nbsp; Atuo como Desenvolvedor fullstack (atualmente em Django)<br />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" />&nbsp; Sou estudante do IFRN - Campus Natal Central.
+<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" />&nbsp; Vamos trabalhar juntos? entra em contato comigo! <br />
+  
+  <br/>
+
+  ## &nbsp;Linguagens e Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,django,cpp,figma)](https://skillicons.dev)
+  #
+
+</div>
+
+## 🌐 Entre em Contato Comigo!
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/731453793690189895) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linharessdavi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linharessdavi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davimedeiroslinhares14@gmail.com) 
 
 
