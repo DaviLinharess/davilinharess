@@ -5,12 +5,13 @@
   Full Stack • Student • Web Developer
 </h3>
 
-  ![](https://github-readme-stats.vercel.app/api?username=DaviLinharess&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)
+<div align="center">
+
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLinharess&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DaviLinharess&icon=0&color=0)](https://visitcount.itsvg.in)
-
+</div>
 
 <div> 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />&nbsp; Olá! Meu nome é Davi Linhares, sou Desenvolvedor Web e estudante do Instituto Federal do Rio Grande do Norte.<br />
