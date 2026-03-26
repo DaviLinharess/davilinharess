@@ -23,7 +23,7 @@
   <br/>
 
   ## &nbsp;Linguagens e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,django,cpp,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,django,cpp,figma)](https://skillicons.dev)
   #
 
 </div>
